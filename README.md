@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **LLM Projects**
 
-- 📫 How to reach me **sonaselvaraj714@gmail.com**
-
 - 👯 I’m looking to collaborate on **Generative AI and ML projects**
 
 - 📄 Know about my experiences **SQL,Python**
+  
+- 📫 How to reach me **sonaselvaraj714@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
