@@ -1,4 +1,4 @@
-<h1 align="center">Hi there👋 I am a passionate data scientist</h1>
+<h1 align="center">Hi there👋 I am a passionate software engineer</h1>
 <h3 align="">With a robust background in machine learning models, including LLM and generative AI, I thrive on tackling complex problems and creating impactful results. 
   <p>🔧 My expertise spans across: Programming Languages: Proficient in Python and SQL, ensuring efficient data manipulation and analysis. Machine Learning: Experienced in developing and deploying diverse machine learning models. </p>
     <p>Data Engineering: Over 2 years of hands-on experience in building ETL pipelines and performing EDA, optimizing data workflows and ensuring data integrity. Let's connect and collaborate on pushing the boundaries of data science and AI!
